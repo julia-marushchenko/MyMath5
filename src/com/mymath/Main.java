@@ -1,5 +1,5 @@
 /**
- * Java program to demonstrate Math.ceil() and Math.floor() method.
+ * Java program to demonstrate Math.sqrt() method.
  */
 
 package com.mymath;
